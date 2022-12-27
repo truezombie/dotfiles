@@ -1,3 +1,15 @@
-require "base"
-require "plugins"
-require "colorscheme"
+require("oleh.plugins-setup")
+require("oleh.core.options")
+require("oleh.core.keymaps")
+require("oleh.core.colorscheme")
+require("oleh.plugins.nvim-tree")
+require("oleh.plugins.nvim-cmp")
+require("oleh.plugins.lualine")
+require("oleh.plugins.telescope")
+require("oleh.plugins.lsp.mason")
+require("oleh.plugins.lsp.lspsaga")
+require("oleh.plugins.lsp.lspconfig")
+require("oleh.plugins.lsp.null-ls")
+require("oleh.plugins.autopairs")
+require("oleh.plugins.treesitter")
+require("oleh.plugins.gitsigns")
