@@ -3,9 +3,9 @@ vim.cmd("autocmd!")
 local opt = vim.opt -- for conciseness
 
 -- encoding
-vim.scriptencoding = 'utf-8'
-opt.encoding = 'utf-8'
-opt.fileencoding = 'utf-8'
+vim.scriptencoding = "utf-8"
+opt.encoding = "utf-8"
+opt.fileencoding = "utf-8"
 
 -- files backup
 opt.backup = false
@@ -18,7 +18,10 @@ opt.showcmd = true
 opt.title = true
 
 -- shell
-opt.shell = 'fish'
+opt.shell = "fish"
+
+-- ruller
+opt.colorcolumn = "80"
 
 -- line numbers
 -- opt.relativenumber = true
