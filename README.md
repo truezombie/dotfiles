@@ -4,7 +4,7 @@ My personal dotfiles
 FIRST - INSTALL HOMEBREW
 
 SECOND - INSTALL FISH SHELL (link|https://gist.github.com/gagarine/cf3f65f9be6aa0e105b184376f765262)
-after that install: nvm, tmux, ...
+after that install: nvm, tmux
 
 THIRD - CREATE SYMLINK
 
