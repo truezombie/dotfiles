@@ -1,4 +1,4 @@
-# dotfiles
+# Dotfiles
 My personal dotfiles
 
 FIRST - INSTALL HOMEBREW and
