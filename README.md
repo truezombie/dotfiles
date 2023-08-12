@@ -11,9 +11,9 @@ brew install ripgrep
 brew install fd
 ```
 
-DO NOT USE FISH THEMES - use i term theme
+DO NOT USE FISH THEMES - use iTerm theme
 
-SECOND - INSTALL FISH SHELL (link|https://gist.github.com/gagarine/cf3f65f9be6aa0e105b184376f765262)
+SECOND - INSTALL FISH SHELL https://gist.github.com/gagarine/cf3f65f9be6aa0e105b184376f765262
 after that install: nvm, tmux
 
 THIRD - CREATE SYMLINK
