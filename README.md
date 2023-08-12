@@ -1,22 +1,19 @@
 # Dotfiles
-My personal dotfiles
 
-FIRST - INSTALL HOMEBREW and
+**FIRST** - INSTALL HOMEBREW and
 ```
+brew install fish
 brew install neovim
 brew install git
-brew install fish
 brew install wget
 brew install ripgrep
 brew install fd
+brew install tmux
 ```
 
-DO NOT USE FISH THEMES - use iTerm theme
+After that [setup fish shell ](https://gist.github.com/gagarine/cf3f65f9be6aa0e105b184376f765262) and that install [nvm](https://riptutorial.com/node-js/example/17273/installing-with-node-version-manager-under-fish-shell-with-oh-my-fish-)
 
-SECOND - INSTALL FISH SHELL https://gist.github.com/gagarine/cf3f65f9be6aa0e105b184376f765262
-after that install: nvm, tmux
-
-THIRD - CREATE SYMLINK
+**SECOND** - Clone the project and CREATE SYMLINKs
 
 ```
 ln -s ~/Projects/dotfiles/nvim ~/.config/nvim
